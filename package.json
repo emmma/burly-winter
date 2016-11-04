@@ -1,0 +1,10 @@
+{
+  "name":"apitest",
+  "version":"0.0.0",
+  "author":"emmolam",
+  "dependencies": {
+    "mocha":"3.0.0",
+    "mochawesome":"1.4.0",
+    "request":"2.78.0"
+  }
+}
