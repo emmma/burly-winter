@@ -1,10 +1,17 @@
 {
-  "name":"apitest",
-  "version":"0.0.0",
-  "author":"emmolam",
+  "name": "api-version-1-2-differ",
+  "version": "0.0.0",
+  "description": "Diffs results from v1 and v2",
+  "author": "emmolam",
+  "main": "test/differ.js",
   "dependencies": {
-    "mocha":"3.0.0",
-    "mochawesome":"1.4.0",
-    "request":"2.78.0"
+    "http": "0.0.0",
+    "httpdispatcher": "^2.0.1",
+    "mocha": "3.0.0",
+    "mochawesome": "1.4.0",
+    "request": "2.78.0"
+  },
+  "scripts": {
+    "test": "mocha"
   }
 }
