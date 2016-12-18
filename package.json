@@ -9,9 +9,25 @@
     "httpdispatcher": "^2.0.1",
     "mocha": "3.0.0",
     "mochawesome": "1.4.0",
-    "request": "2.78.0"
+    "oauth": "^0.9.14",
+    "querystring": "^0.2.0",
+    "request": "2.78.0",
+    "util": "^0.10.3"
   },
   "scripts": {
     "test": "mocha"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmma/burly-winter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emmma/burly-winter/issues"
+  },
+  "homepage": "https://github.com/emmma/burly-winter#readme"
 }
