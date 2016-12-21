@@ -1,5 +1,5 @@
 # About
-[TODO]
+A tool to aid in API version migrations.  Tests currently compare the results of V1 and V2 of LinkedIn Ads APIs.
 
 ## Installation
 [TODO]
